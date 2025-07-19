@@ -1,0 +1,28 @@
+#navbarLogo {
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+#textContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#pageTitle {
+  font-size: 30px;
+}
+
+.textParagraph {
+  font-size: 16px;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+
+a {
+  color: var(--bs-blue);
+}
+
+#logo-text {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-weight: bold;
+}
